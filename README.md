@@ -10,6 +10,8 @@ I used 99 cartooon styles to generate different cartoon structures.
 I have the original picture and the different cartoon structures in the output of the code. 
 Please check the google colab attached in my repository.
 The output was as below
+
+
 <img width="500" alt="Screen Shot 2022-12-17 at 8 07 53 AM" src="https://user-images.githubusercontent.com/111389636/208253334-f68f60a7-d449-45ed-8197-a3c4fc6eb8ac.png">
 
 
