@@ -1,4 +1,6 @@
 ## Image Cartoonification Project
+<img width="838" alt="Screen Shot 2022-12-17 at 11 15 29 AM" src="https://user-images.githubusercontent.com/111389636/208253543-ec8358c8-3b78-41e3-92ac-6ddd9d9dcfac.png">
+
 https://user-images.githubusercontent.com/111389636/208253154-b186e775-5b29-41ca-9558-9a89f833e0fa.mp4
 
 ## Original Image
